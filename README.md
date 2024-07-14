@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# Mi Portafolio Personal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+¡Bienvenido a mi portafolio personal! Aquí encontrarás información sobre mí, mis habilidades, mis proyectos y cómo contactarme.
 
-## Available Scripts
+## Sobre mí
 
-In the project directory, you can run:
+Hola, mi nombre es Joaquín Cancino y soy estudiante de Ingeniería Civil en Informática en la Universidad Católica del Maule. Estoy apasionado por el desarrollo de software y he trabajado en varios proyectos que han mejorado mis habilidades y conocimientos. Mis principales áreas de expertise incluyen:
 
-### `npm start`
+- **JavaScript**
+- **React**
+- **Python**
+- **Flutter**
+- **HTML**
+- **CSS**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+He tenido la oportunidad de trabajar en proyectos interesantes y desafiantes. Uno de ellos fue para la empresa de perfumes "Dejo Aromas", donde desarrollé una plataforma web para optimizar sus ventas. Otro proyecto destacado fue para el "Club de Tenis Graneros", donde implementé un sistema de gestión de torneos y reservas.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Habilidades
 
-### `npm test`
+- **JavaScript**: Avanzado
+- **React**: Avanzado
+- **Python**: Intermedio
+- **Flutter**: Intermedio
+- **HTML**: Avanzado
+- **CSS**: Avanzado
+- **Node.js**: Intermedio
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Proyectos
 
-### `npm run build`
+### Plataforma Web para Dejo Aromas
+Desarrollo de una plataforma web para optimizar las ventas en la empresa de perfumes "Dejo Aromas".
+- **Año**: 2023
+- **Descripción**: Desarrollo de una plataforma web completa utilizando React, Node.js y MongoDB.
+- [Ver proyecto](#)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Sistema de Gestión para Club de Tenis Graneros
+Implementación de un sistema de gestión de torneos y reservas para el "Club de Tenis Graneros".
+- **Año**: 2022
+- **Descripción**: Desarrollo de un sistema de gestión que incluye reserva de canchas, gestión de torneos y manejo de usuarios.
+- [Ver proyecto](#)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Análisis de Ingredientes en Alimentos
+Aplicación Android para analizar ingredientes usando OCR y determinar su impacto en la salud.
+- **Año**: 2024
+- **Descripción**: Desarrollo de una aplicación Android utilizando Flutter y Python para análisis de ingredientes.
+- [Ver proyecto](#)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contacto
 
-### `npm run eject`
+Para cualquier consulta o colaboración, no dudes en contactarme:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Nombre**: Joaquín Cancino Torres
+- **Correo**: [Joaquin.cancino@alu.ucm.cl](mailto:Joaquin.cancino@alu.ucm.cl)
+- **GitHub**: [Migthynice](https://github.com/Migthynice-UCM)
+- **Teléfono**: +56 9 3901 5812
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+También puedes encontrarme en las siguientes redes sociales:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- [LinkedIn](https://www.linkedin.com)
+- [Instagram](https://www.instagram.com)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Cómo instalar y ejecutar el proyecto
 
-## Learn More
+### Prerrequisitos
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Asegúrate de tener instalado Node.js y npm en tu máquina. Puedes descargarlos desde [nodejs.org](https://nodejs.org/).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Instalación
 
-### Code Splitting
+1. Clona el repositorio:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   ```bash
+   git clone https://github.com/tu-usuario/mi-portafolio.git
+   cd mi-portafolio
